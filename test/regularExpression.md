@@ -178,4 +178,3 @@ class: middle center
 
 class: middle center
 # THANK YOU FOR PLAYING
----
