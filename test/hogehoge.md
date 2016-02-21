@@ -116,6 +116,7 @@ class: middle center
 | iOS | OK |
 | ChromeOS | NG |
 ---
+
 # メタ文字の説明
 ### **[....]**
 * 括弧内に含まれる一文字にマッチする
